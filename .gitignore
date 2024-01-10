@@ -1,0 +1,7 @@
+.env
+.idea
+.eslintcache
+
+node_modules
+/public
+/build
